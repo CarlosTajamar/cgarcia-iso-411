@@ -1,1 +1,13 @@
-# cgarcia-iso-411
+- Hola soy Carlos García Zydzik.
+- Acualmente estoy cursando ASIR1.
+- Realizaremos una práctica en GitHub.
+- Esta práctica se le será enviada a don Alfredo Abad
+- Aprenderemos cosas en GitHub.
+- Ahora a continuación pondré la estructura base de un HTML.
+- <!doctype html>
+-   <html>
+-     <head>
+-     </head>
+-     <body>
+  -     </body>
+-   </html>
